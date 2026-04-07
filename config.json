@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "web-scraping",
+      "title": "Web Scraping with Python",
+      "description": "Coleta de dados de páginas web usando requests e BeautifulSoup",
+      "path": "assignments/web-scraping",
+      "dueDate": "2026-04-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-rest",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Construindo APIs REST com o framework FastAPI em Python",
+      "path": "assignments/fastapi-rest",
+      "dueDate": "2026-04-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
